@@ -21,4 +21,8 @@ Professor Harmon’s Bubbles example, which inspired me to use tracker clicks as
 Daniel Shiffman’s ‘Noise Wave’ example, from which I borrowed code for the wave background in my project. Also inspired me to build off of the wave idea and include a mode for ‘snowy hill’ using the same ‘wave’ shape.
 https://processing.org/examples/noisewave.html
 
+HTML Color Codes Reference
+
+https://htmlcolorcodes.com/
+
 
