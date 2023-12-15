@@ -16,19 +16,18 @@ This project challenged me as a computer scientist, firstly because I had to lea
 2. Press run to see a Java window pop up (the canvas)
 3. Choose your background: Snowy Hill or Blue Ocean
 4. To get Snowy Hill, press and drag your tracker (trackpad). ❄️
-5. To get Blue Ocean, press the LEFT arrow on your keyboard and then press and drag the tracker.
+5. To get Blue Ocean, press the LEFT arrow on your keyboard and then press and drag the tracker. 🌊
 6. Then, add elements by clicking to draw!
-7. To add a moon: press UP arrow and then click on the part of the canvas where you want your moon to go.
-8. Stars: press DOWN arrow and then click on the canvas.
-9. Orange Planet: press RIGHT arrow, then click.
-10. Purple Planet: press SHIFT, then click.
-11. Blue Orb: press CONTROL, then click.
-12. Death Star: press DELETE, then click.
-
+7. To add a moon: press UP arrow and then click on the part of the canvas where you want your moon to go. 🌙
+8. Stars: press DOWN arrow and then click on the canvas. 🌟
+9. Orange Planet: press RIGHT arrow, then click. 🍊
+10. Purple Planet: press SHIFT, then click. 🟣
+11. Blue Orb: press CONTROL, then click. 🌏
+12. Death Star: press DELETE, then click. 🌚
 13. To document your work, take a screenshot!
-14. To start with a fresh canvas, press and drag the tracker along the wave formation, erasing all of your objects.
-15. Be careful not to press and drag the tracker while you're creating, as this action will erase your work.
-16. Before adding objects, feel free to play with pressing and dragging to create different wave shapes.
+15. To start with a fresh canvas, press and drag the tracker along the wave formation, erasing all of your objects.
+16. Be careful not to press and drag the tracker while you're creating, as this action will erase your work.
+17. Before adding objects, feel free to play with pressing and dragging to create different wave shapes.
 
 
 ## External Sources:
